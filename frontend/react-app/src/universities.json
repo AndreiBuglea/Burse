@@ -1,0 +1,16 @@
+{
+    "Universitatea de Vest din Timisoara": {
+      "Facultatea de Arte si Design": ["Design", "Arte Plastice"],
+      "Facultatea de Chimie, Biologie, Geografie": ["Chimie", "Biologie", "Geografie"],
+      "Facultatea de Drept": ["Drept"],
+      "Facultatea de Economie si de Administrare a Afacerilor": ["Economie", "Administrare a Afacerilor", "Marketing"],
+      "Facultatea de Educatie Fizica si Sport": ["Educatie Fizica", "Sport"],
+      "Facultatea de Fizica": ["Fizica"],
+      "Facultatea de Matematica si Informatica": ["Matematica", "Informatica"],
+      "Facultatea de Litere, Istorie si Teologie": ["Litere", "Istorie", "Teologie"],
+      "Facultatea de Muzica si Teatru": ["Muzica", "Teatru"],
+      "Facultatea de Sociologie si Psihologie": ["Sociologie", "Psihologie"],
+      "Facultatea de Stiinte Politice, Filosofie si Stiinte ale Comunicarii": ["Stiinte Politice", "Filosofie", "Comunicare"]
+    }
+  }
+  
